@@ -9,7 +9,7 @@
 
 # Introduction to GitHub 
 
-Grand welcome to our Arjun
+Grand welcome to our Arjun - Comments from first branch
 
 _Get started using GitHub in less than an hour._
 
